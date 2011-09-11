@@ -3,7 +3,7 @@
 	<title><![CDATA[Piwik]]></title>
 	<author><![CDATA[LGnap]]></author>
 	<version>1.0</version>
-	<date>10/09/2010</date>
+	<date>11/09/2010</date>
 	<site>http://lgnap.helpcomputer.org</site>
 	<description><![CDATA[Plugin permettant l'intégration extremement simple du code de tracking piwik]]></description>
 	<requirements></requirements>	
